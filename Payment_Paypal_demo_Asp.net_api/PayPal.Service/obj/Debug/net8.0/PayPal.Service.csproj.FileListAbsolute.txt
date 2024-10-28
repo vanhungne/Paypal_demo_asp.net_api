@@ -1,0 +1,15 @@
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\bin\Debug\net8.0\PayPal.Service.deps.json
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\bin\Debug\net8.0\PayPal.Service.dll
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\bin\Debug\net8.0\PayPal.Service.pdb
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\bin\Debug\net8.0\PayPal.Data.dll
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\bin\Debug\net8.0\PayPal.Data.pdb
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.Service.csproj.AssemblyReference.cache
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.Service.GeneratedMSBuildEditorConfig.editorconfig
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.Service.AssemblyInfoInputs.cache
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.Service.AssemblyInfo.cs
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.Service.csproj.CoreCompileInputs.cache
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.S.0249640F.Up2Date
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.Service.dll
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\refint\PayPal.Service.dll
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\PayPal.Service.pdb
+I:\.NetCore 8 webAPI\Payment_Paypal_demo_Asp.net_api\PayPal.Service\obj\Debug\net8.0\ref\PayPal.Service.dll

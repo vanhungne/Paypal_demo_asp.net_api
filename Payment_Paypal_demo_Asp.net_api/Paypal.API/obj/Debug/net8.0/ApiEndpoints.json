@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "Paypal.API.Controllers.PayPalController",
+    "Method": "CancelPayment",
+    "RelativePath": "api/PayPal/cancel-payment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Paypal.API.Controllers.PayPalController",
+    "Method": "CapturePayment",
+    "RelativePath": "api/PayPal/capture-payment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "token",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "orderNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Paypal.API.Controllers.PayPalController",
+    "Method": "CreatePayment",
+    "RelativePath": "api/PayPal/create-payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

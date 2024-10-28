@@ -1,0 +1,752 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\data\\config\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\data\\config\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\data\\config\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\data\\config\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|solutionrelative:paypal.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.api\\paypal.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|solutionrelative:paypal.api\\paypal.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|solutionrelative:paypal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.api\\controllers\\paypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|solutionrelative:paypal.api\\controllers\\paypalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|solutionrelative:paypal.service\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.service\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|solutionrelative:paypal.service\\services\\paypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/Hung/PaypalDemo/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.service\\interfaces\\ipaypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|solutionrelative:paypal.service\\interfaces\\ipaypalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\entities\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\entities\\payments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\entities\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\enum\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\enum\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\enum\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|solutionrelative:paypal.service\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.service\\paypal.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|solutionrelative:paypal.service\\paypal.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\data\\datadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\interfaces\\ipaymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\enum\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|solutionrelative:paypal.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\entities\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\model\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\model\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAA93EA9-608A-4AF8-8CE5-359D762A840A}|PayPal.Service\\PayPal.Service.csproj|solutionrelative:paypal.service\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E81C3305-8F63-462F-9A61-D2A6C28D0F9A}|Paypal.API\\Paypal.API.csproj|solutionrelative:paypal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\model\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\model\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\entities\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\paypal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\paypal.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\migrations\\20241023133816_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\migrations\\20241023133816_seedinitialdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\migrations\\20241023132518_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\migrations\\20241023132518_database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|i:\\.netcore 8 webapi\\payment_paypal_demo_asp.net_api\\paypal.data\\migrations\\20241025033810_updatepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFA84872-A2DE-46D4-BCC2-B11999EFBB55}|PayPal.Data\\PayPal.Data.csproj|solutionrelative:paypal.data\\migrations\\20241025033810_updatepayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Paypal.API\\Properties\\launchSettings.json",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Paypal.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T08:32:33.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Paypal.API",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Paypal.API.csproj",
+              "RelativeDocumentMoniker": "Paypal.API\\Paypal.API.csproj",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Paypal.API.csproj",
+              "RelativeToolTip": "Paypal.API\\Paypal.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T08:32:28.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dbo.Orders.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/Hung/PaypalDemo/True/SqlTable/dbo.Orders.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/Hung/PaypalDemo/True/SqlTable/dbo.Orders.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-25T07:42:12.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20241025033810_updatepayment.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Migrations\\20241025033810_updatepayment.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Migrations\\20241025033810_updatepayment.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Migrations\\20241025033810_updatepayment.cs",
+              "RelativeToolTip": "PayPal.Data\\Migrations\\20241025033810_updatepayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:38:10.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PayPal.Service.csproj",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\PayPal.Service.csproj",
+              "RelativeDocumentMoniker": "PayPal.Service\\PayPal.Service.csproj",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\PayPal.Service.csproj",
+              "RelativeToolTip": "PayPal.Service\\PayPal.Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-25T03:36:00.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentConfiguration.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Data\\Config\\PaymentConfiguration.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Data\\Config\\PaymentConfiguration.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Data\\Config\\PaymentConfiguration.cs",
+              "RelativeToolTip": "PayPal.Data\\Data\\Config\\PaymentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:32:39.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Data\\Config\\OrderConfiguration.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Data\\Config\\OrderConfiguration.cs",
+              "RelativeToolTip": "PayPal.Data\\Data\\Config\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T03:32:01.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Paypal.API\\appsettings.Development.json",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\appsettings.Development.json",
+              "RelativeToolTip": "Paypal.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-25T01:34:04.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PayPal.Service\\DependencyInjection.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\DependencyInjection.cs",
+              "RelativeToolTip": "PayPal.Service\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:40:21.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayPalController.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Controllers\\PayPalController.cs",
+              "RelativeDocumentMoniker": "Paypal.API\\Controllers\\PayPalController.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Controllers\\PayPalController.cs",
+              "RelativeToolTip": "Paypal.API\\Controllers\\PayPalController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:36:25.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PaypalService.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Services\\PaypalService.cs",
+              "RelativeDocumentMoniker": "PayPal.Service\\Services\\PaypalService.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Services\\PaypalService.cs",
+              "RelativeToolTip": "PayPal.Service\\Services\\PaypalService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:16:19.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPaypalService.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Interfaces\\IPaypalService.cs",
+              "RelativeDocumentMoniker": "PayPal.Service\\Interfaces\\IPaypalService.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Interfaces\\IPaypalService.cs",
+              "RelativeToolTip": "PayPal.Service\\Interfaces\\IPaypalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:15:19.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Model\\OrderDto.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Model\\OrderDto.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Model\\OrderDto.cs",
+              "RelativeToolTip": "PayPal.Data\\Model\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:14:38.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "PayPal.Service\\Services\\OrderService.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Services\\OrderService.cs",
+              "RelativeToolTip": "PayPal.Service\\Services\\OrderService.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAuwLwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:09:28.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Model\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Model\\OrderItemDto.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Model\\OrderItemDto.cs",
+              "RelativeToolTip": "PayPal.Data\\Model\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:08:43.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "PayPal.Service\\Interfaces\\IOrderService.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Service\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "PayPal.Service\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAEwBEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:07:57.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Repository\\ProductRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:51:03.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Repository\\OrderRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:50:41.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Repository\\PaymentRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Repository\\PaymentRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:50:24.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Repository\\UserRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:50:06.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IPaymentRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IPaymentRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Interfaces\\IPaymentRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IPaymentRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Interfaces\\IPaymentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:46:19.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:45:05.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:43:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Repository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Repository.cs",
+              "RelativeToolTip": "PayPal.Data\\Repository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:40:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\IRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\IRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:39:37.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "PayPal.Data\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:39:06.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241023133816_SeedInitialData.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Migrations\\20241023133816_SeedInitialData.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Migrations\\20241023133816_SeedInitialData.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Migrations\\20241023133816_SeedInitialData.cs",
+              "RelativeToolTip": "PayPal.Data\\Migrations\\20241023133816_SeedInitialData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:38:16.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241023132518_database.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Migrations\\20241023132518_database.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Migrations\\20241023132518_database.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Migrations\\20241023132518_database.cs",
+              "RelativeToolTip": "PayPal.Data\\Migrations\\20241023132518_database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:25:19.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Program.cs",
+              "RelativeDocumentMoniker": "Paypal.API\\Program.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\Program.cs",
+              "RelativeToolTip": "Paypal.API\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:17:09.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Paypal.API\\appsettings.json",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\Paypal.API\\appsettings.json",
+              "RelativeToolTip": "Paypal.API\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T13:13:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PaymentMethod.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Enum\\PaymentMethod.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Enum\\PaymentMethod.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Enum\\PaymentMethod.cs",
+              "RelativeToolTip": "PayPal.Data\\Enum\\PaymentMethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:10:22.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Enum\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Enum\\PaymentStatus.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Enum\\PaymentStatus.cs",
+              "RelativeToolTip": "PayPal.Data\\Enum\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:09:34.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Enum\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Enum\\OrderStatus.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Enum\\OrderStatus.cs",
+              "RelativeToolTip": "PayPal.Data\\Enum\\OrderStatus.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:09:12.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Entities\\OrderItem.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "PayPal.Data\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:08:06.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Products.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Products.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Entities\\Products.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Products.cs",
+              "RelativeToolTip": "PayPal.Data\\Entities\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:07:13.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Address.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Address.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Entities\\Address.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Address.cs",
+              "RelativeToolTip": "PayPal.Data\\Entities\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:06:47.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Users.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Entities\\Users.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Users.cs",
+              "RelativeToolTip": "PayPal.Data\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:06:08.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Orders.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Entities\\Orders.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Orders.cs",
+              "RelativeToolTip": "PayPal.Data\\Entities\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:00:30.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Payments.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Payments.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Entities\\Payments.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Entities\\Payments.cs",
+              "RelativeToolTip": "PayPal.Data\\Entities\\Payments.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAArwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:59:30.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DataDbContext.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Data\\DataDbContext.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\Data\\DataDbContext.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\Data\\DataDbContext.cs",
+              "RelativeToolTip": "PayPal.Data\\Data\\DataDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:57:06.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PayPal.Data.csproj",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\PayPal.Data.csproj",
+              "RelativeDocumentMoniker": "PayPal.Data\\PayPal.Data.csproj",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\PayPal.Data.csproj",
+              "RelativeToolTip": "PayPal.Data\\PayPal.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T12:51:35.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\UnitOfWork.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\UnitOfWork.cs",
+              "RelativeToolTip": "PayPal.Data\\UnitOfWork.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwI4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:52:12.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\IUnitOfWork.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\IUnitOfWork.cs",
+              "RelativeToolTip": "PayPal.Data\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:51:48.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "PayPal.Data\\DependencyInjection.cs",
+              "ToolTip": "I:\\.NetCore 8 webAPI\\Payment_Paypal_demo_Asp.net_api\\PayPal.Data\\DependencyInjection.cs",
+              "RelativeToolTip": "PayPal.Data\\DependencyInjection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:50:53.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
